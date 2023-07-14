@@ -101,9 +101,7 @@
             <!-- Footer -->
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
-                    <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Sb-Admin</span>
-                    </div>
+              
                 </div>
             </footer>
             <!-- End of Footer -->
@@ -167,13 +165,8 @@
     <script src="https://cdn.datatables.net/select/1.3.0/js/dataTables.select.min.js"></script>
     
     <script>
-        $(function() {
-  let copyButtonTrans = 'copy'
-  let csvButtonTrans = 'csv'
-  let excelButtonTrans = 'excel'
-  let pdfButtonTrans = 'pdf'
-  let printButtonTrans = 'print'
-  let colvisButtonTrans = 'Column visibility'
+
+  
   let languages = {
     'en': 'https://cdn.datatables.net/plug-ins/1.10.19/i18n/English.json'
   };
