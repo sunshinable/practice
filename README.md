@@ -1,24 +1,20 @@
-# Laravel 8 - Quiz Application
+# Summer practine nosu
 
-## Screenshots
-
-![preview img](/preview.png)
-
-## Run Locally
+## Локальная установка
 
 Clone the project
 
 ```bash
-  git clone !!! project-name
+  git clone https://github.com/sunshinable/practice.git project-name
 ```
 
-Go to the project directory
+Перейдите в проект с репозиторием
 
 ```bash
   cd project-name
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Переминуйте файл .env.example в .env и настройте базу данных (я использовал xampp)
 
 ```bash
     composer install
@@ -32,7 +28,7 @@ Go to the project directory
     php artisan migrate:fresh --seed
 ```
 
-#### Login
+#### Админ аккаунт
 
 -   email = admin@example.com
 -   password = 123
