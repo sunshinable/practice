@@ -1,8 +1,8 @@
-# Summer practine nosu
+# Летняя практика
 
 ## Локальная установка
 
-Clone the project
+Клонируйте или скачайте репозиторий
 
 ```bash
   git clone https://github.com/sunshinable/practice.git project-name
